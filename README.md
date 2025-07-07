@@ -115,25 +115,25 @@ SQLite_HandBook/
 Below are some screenshots demonstrating the app's UI and features:
 
 ### Login / Register
-![Login](screenshots/login.png)
+![Login](smart_record_manager\screenshots\Screenshot 2025-07-07 125951.png)
 
 ### Add Student
-![Add Student](screenshots/add_student.png)
+![Add Student](smart_record_manager\screenshots\Screenshot 2025-07-07 125104.png)
 
 ### View Students
-![View Students](screenshots/view_students.png)
+![View Students](smart_record_manager\screenshots\Screenshot 2025-07-07 125147.png)
 
 ### Search Students
-![Search Students](screenshots/search_students.png)
+![Search Students](smart_record_manager\screenshots\Screenshot 2025-07-07 125230.png)
 
 ### Update/Delete Student
-![Update/Delete Student](screenshots/update_delete.png)
-
+![Update/Delete Student](smart_record_manager\screenshots\Screenshot 2025-07-07 125327.png)
+![Update/Delete Student](smart_record_manager\screenshots\Screenshot 2025-07-07 125354.png)
 ### Statistics
-![Statistics](screenshots/statistics.png)
+![Statistics](smart_record_manager\screenshots\Screenshot 2025-07-07 125652.png)
 
 ### Visualize
-![Visualize](screenshots/visualize.png)
+![Visualize](smart_record_manager\screenshots\Screenshot 2025-07-07 125751.png)
 
 > _Place your screenshots in a `screenshots/` folder in the project root for them to display here._
 
